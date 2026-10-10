@@ -1,4 +1,4 @@
-// Repositorio:
+// Repositorio: https://github.com/lopezperezjuancarlos/EAM_EJE_09
 package org.upiiz;
 
 import org.upiiz.models.Computadora;
